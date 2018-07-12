@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+    <string name="sg">Select Gender :</string>
+    <string-array name="gender">
+        <item>Select</item>
+        <item>Male</item>
+        <item>FeMale</item>
+    </string-array>
+
+    <string-array name="states">
+        <item>Andhra Pradesh</item>
+        <item>Telangana</item>
+        <item>Maharastra</item>
+        <item>Karnataka</item>
+        <item>Taminadu</item>
+        <item>Kerala</item>
+    </string-array>
+</resources>
